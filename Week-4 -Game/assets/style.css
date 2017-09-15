@@ -1,0 +1,104 @@
+body{ border:dotted;
+	  height:620px;
+		margin-left:300px;
+	margin-right: 200px;
+	padding-bottom:70px;
+}
+header{
+	width:450px;
+	height: 70px;
+	background-color:green;
+	margin-bottom: 10px;
+	margin-top:30px;
+	margin-left: 200px;
+	font-size:2em;
+}
+#name{
+	padding-left:15px;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+	
+}
+.paragraph{
+	width: 1000px;
+	height:200px;
+	background-color:yellow;
+	margin-bottom: 10px;
+	margin-left:15px;
+}
+li{font-size:1.5em;}
+.crystals{border:solid;
+	width:500px;
+	background-color:blue;
+	margin-top:10px;
+	margin-bottom: 15px;
+	margin-left:15px;
+
+}
+p{
+	color: green;
+	padding: 5px;
+}
+.start{
+	height:105px;
+    width:300px;
+    display: inline-block;
+}
+.total{
+	width:150px;
+	height: 90px;
+	background-color: #49E692;
+	margin-right: 10px;
+	font-size: 30px;
+	color:#8A358F;
+  margin-left:15px;
+}
+.result{
+	font-size:1.5em;
+	width:150px;
+	height: 90px;
+	background-color: #49E6D6;
+	margin-left: 500px;
+	margin-top:-90px;
+	padding-bottom:10px;
+
+
+}
+#wins{background-color:green;}
+#losses{background-color:red;}
+.click{
+	width:100px;
+	height:80px;
+	margin: 10px;
+}
+#blue{
+	color: #3092c7;
+}
+#white{
+	color: #00aa59;
+}
+#red{
+	color: #ec4b5f;
+}
+#yellow{
+	color: #ffc225;
+}
+.score{
+	width: 150px;
+	height:30px;
+	background-color: #12B5A2;
+	margin-bottom: 10px;
+	margin-left:15px;
+}
+.addition{
+	width:150px;
+	height:90px;
+	background-color: #12B5A2;
+	font-size: 30px;
+	color: white;
+    margin-left:15px;}
+	
+
+
+}
